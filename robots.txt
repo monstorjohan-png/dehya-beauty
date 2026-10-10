@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monstorjohan-png.github.io/dehya-beauty/sitemap.xml
